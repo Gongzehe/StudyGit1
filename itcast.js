@@ -1,3 +1,5 @@
+﻿sssssssssssssssssssssssssssssssssssss
+
 (function(global) {
 	var document = global.document,
 		arr = [],
